@@ -5,6 +5,11 @@ import Data.ReservationData;
 import java.time.LocalDate;
 import java.util.Scanner;
 
+/**
+ * Handles user interaction for making reservations.
+ * Allows multiple bookings and checks room availability.
+ */
+
 public class ReservationUI {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

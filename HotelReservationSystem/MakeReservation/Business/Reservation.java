@@ -3,6 +3,11 @@ package Business;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 
+/**
+ * Represents a single hotel reservation.
+ * Containts guest details, room number, dates, and price.
+ */
+
 public class Reservation {
     private String guestName;
     private int roomNumber;

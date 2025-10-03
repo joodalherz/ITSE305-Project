@@ -4,6 +4,11 @@ import Business.Reservation;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * stores and manages all reservations.
+ * Checks room availability before adding new reservations.
+ */
+
 public class ReservationData {
     private List<Reservation> reservations;
 
