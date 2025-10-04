@@ -3,9 +3,9 @@
  * It holds the user's name, email, and password.
  */
 public class User {
-    private String name;
-    private String email;
-    private String password;
+    private final String name;
+    private final String email;
+    private final String password;
 
     /**
      * Constructor to initialize a User object.
@@ -34,7 +34,7 @@ public class User {
         return password;
     }
 
-    // Setters can be added here if needed
+
 }
 
 
