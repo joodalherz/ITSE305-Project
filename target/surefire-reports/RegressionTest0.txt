@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: randoop.RegressionTest4
+Test set: RegressionTest0
 -------------------------------------------------------------------------------
-Tests run: 151, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.129 s -- in randoop.RegressionTest4
+Tests run: 500, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.258 s -- in RegressionTest0

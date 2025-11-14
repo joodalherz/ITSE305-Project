@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="randoop.RegressionTest6" time="1.993" tests="500" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="randoop.RegressionTest6" time="0.11" tests="500" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\User\SE305\ITSE305-Project\target\test-classes;C:\Users\User\SE305\ITSE305-Project\target\classes;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.2\junit-jupiter-5.10.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\User\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.2\junit-jupiter-params-5.10.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\User\.m2\repository\org\junit\vintage\junit-vintage-engine\5.10.2\junit-vintage-engine-5.10.2.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;C:\Users\User\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\User\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\User\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="C:\Users\User\SE305\ITSE305-Project\target\test-classes;C:\Users\User\SE305\ITSE305-Project\target\classes;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.2\junit-jupiter-5.10.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\User\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.2\junit-jupiter-params-5.10.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\User\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\User\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\User\.m2\repository\org\junit\vintage\junit-vintage-engine\5.10.2\junit-vintage-engine-5.10.2.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;C:\Users\User\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,10 +15,10 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\User\AppData\Local\Temp\surefire17182860612172413768\surefirebooter-20251102005806080_3.jar C:\Users\User\AppData\Local\Temp\surefire17182860612172413768 2025-11-02T00-58-05_959-jvmRun1 surefire-20251102005806080_1tmp surefire_0-20251102005806080_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\User\AppData\Local\Temp\surefire11425080104719178162\surefirebooter-20251103203107640_3.jar C:\Users\User\AppData\Local\Temp\surefire11425080104719178162 2025-11-03T20-31-07_502-jvmRun1 surefire-20251103203107640_1tmp surefire_0-20251103203107640_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="randoop.RegressionTest"/>
-    <property name="surefire.test.class.path" value="C:\Users\User\SE305\ITSE305-Project\target\test-classes;C:\Users\User\SE305\ITSE305-Project\target\classes;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.2\junit-jupiter-5.10.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\User\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.2\junit-jupiter-params-5.10.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\User\.m2\repository\org\junit\vintage\junit-vintage-engine\5.10.2\junit-vintage-engine-5.10.2.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;C:\Users\User\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\User\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\User\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\User\SE305\ITSE305-Project\target\test-classes;C:\Users\User\SE305\ITSE305-Project\target\classes;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.2\junit-jupiter-5.10.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\User\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.2\junit-jupiter-params-5.10.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\User\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\User\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\User\.m2\repository\org\junit\vintage\junit-vintage-engine\5.10.2\junit-vintage-engine-5.10.2.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;C:\Users\User\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\User"/>
     <property name="user.language" value="en"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\User\AppData\Local\Temp\surefire17182860612172413768\surefirebooter-20251102005806080_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\User\AppData\Local\Temp\surefire11425080104719178162\surefirebooter-20251103203107640_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.8+12-LTS-250"/>
@@ -51,7 +51,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Apache\apache-maven-3.9.11\bin;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Apache\apache-maven-3.9.11\bin;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;c:\Users\User\.vscode\extensions\vscjava.vscode-java-debug-0.58.3\bundled\scripts\noConfigScripts;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="stderr.encoding" value="Cp1252"/>
     <property name="java.vendor" value="Oracle Corporation"/>
@@ -62,11 +62,11 @@
   <testcase name="test3001" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3002" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3003" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3004" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3004" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3005" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3005" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ]]></system-out>
@@ -110,14 +110,14 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3015" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3016" classname="randoop.RegressionTest6" time="0.001"/>
+  <testcase name="test3016" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3017" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3018" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3019" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3019" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -132,7 +132,7 @@
   <testcase name="test3021" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3022" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3023" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3024" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3024" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -166,8 +166,8 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3031" classname="randoop.RegressionTest6" time="0.001"/>
-  <testcase name="test3032" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3031" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3032" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3033" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3034" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
@@ -229,7 +229,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3043" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3043" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -253,7 +253,7 @@
   </testcase>
   <testcase name="test3046" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3047" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3048" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3048" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
@@ -267,7 +267,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3051" classname="randoop.RegressionTest6" time="0.002">
+  <testcase name="test3051" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -315,7 +315,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3056" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3056" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -328,11 +328,11 @@
   <testcase name="test3057" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3058" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3059" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3060" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3060" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3061" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3062" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3063" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3064" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3064" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -350,7 +350,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3066" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3066" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -372,8 +372,8 @@
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3070" classname="randoop.RegressionTest6" time="0.001"/>
-  <testcase name="test3071" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3070" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3071" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -428,7 +428,7 @@
   </testcase>
   <testcase name="test3083" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3084" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3085" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3085" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3086" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3087" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
@@ -453,7 +453,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3093" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3093" classname="randoop.RegressionTest6" time="0.002">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -477,7 +477,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3098" classname="randoop.RegressionTest6" time="0.002">
+  <testcase name="test3098" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -502,7 +502,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3100" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3101" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3101" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3102" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3103" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
@@ -517,7 +517,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3104" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3104" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -540,10 +540,10 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3106" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3107" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3107" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3108" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3109" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3110" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3110" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -558,7 +558,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3112" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3113" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3113" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3114" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3115" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3116" classname="randoop.RegressionTest6" time="0.0">
@@ -567,9 +567,9 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3117" classname="randoop.RegressionTest6" time="0.001"/>
+  <testcase name="test3117" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3118" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3119" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3119" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3120" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3121" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3122" classname="randoop.RegressionTest6" time="0.0"/>
@@ -583,9 +583,9 @@
   </testcase>
   <testcase name="test3124" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3125" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3126" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3126" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3127" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3128" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3128" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
@@ -614,7 +614,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3133" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3134" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3134" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ]]></system-out>
@@ -648,7 +648,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3141" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3141" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3142" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
@@ -662,14 +662,14 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3148" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3149" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3149" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3150" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3150" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ]]></system-out>
@@ -717,9 +717,9 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3164" classname="randoop.RegressionTest6" time="0.001"/>
+  <testcase name="test3164" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3165" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3166" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3166" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -755,8 +755,8 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3170" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3171" classname="randoop.RegressionTest6" time="0.001"/>
-  <testcase name="test3172" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3171" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3172" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3173" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
@@ -808,7 +808,7 @@
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3180" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3180" classname="randoop.RegressionTest6" time="0.002">
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
@@ -830,7 +830,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3186" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3186" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -850,11 +850,11 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3189" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3189" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3190" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3190" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3191" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -917,7 +917,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3202" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3202" classname="randoop.RegressionTest6" time="0.002">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -939,7 +939,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3205" classname="randoop.RegressionTest6" time="0.002">
+  <testcase name="test3205" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -967,7 +967,7 @@
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3212" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3212" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -976,7 +976,7 @@
   </testcase>
   <testcase name="test3213" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3214" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3215" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3215" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -992,7 +992,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3217" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3217" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3218" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3219" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3220" classname="randoop.RegressionTest6" time="0.0">
@@ -1028,7 +1028,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3224" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3224" classname="randoop.RegressionTest6" time="0.002">
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
@@ -1048,7 +1048,7 @@
   <testcase name="test3227" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3228" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3229" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3230" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3230" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1060,7 +1060,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3233" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3233" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1077,7 +1077,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3235" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3235" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1112,7 +1112,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3239" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3239" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1128,7 +1128,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3242" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3242" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1148,7 +1148,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3244" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3245" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3245" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3246" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1161,7 +1161,7 @@
   </testcase>
   <testcase name="test3248" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3249" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3250" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3250" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1179,13 +1179,13 @@
   <testcase name="test3253" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3254" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3255" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3256" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3256" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
   <testcase name="test3257" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3258" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3258" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1204,7 +1204,7 @@
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3261" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3261" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1231,7 +1231,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3265" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3265" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ]]></system-out>
@@ -1247,7 +1247,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3268" classname="randoop.RegressionTest6" time="0.001"/>
+  <testcase name="test3268" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3269" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3270" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
@@ -1268,7 +1268,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3272" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3273" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3273" classname="randoop.RegressionTest6" time="0.002">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1302,7 +1302,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3277" classname="randoop.RegressionTest6" time="0.002"/>
+  <testcase name="test3277" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3278" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1328,7 +1328,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3281" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3281" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1390,7 +1390,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3299" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3300" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3300" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3301" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3302" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
@@ -1428,7 +1428,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3312" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3313" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3313" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1477,7 +1477,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3319" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3320" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3320" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3321" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1503,7 +1503,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3323" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3323" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
@@ -1530,7 +1530,7 @@
   </testcase>
   <testcase name="test3327" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3328" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3329" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3329" classname="randoop.RegressionTest6" time="0.002">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1544,7 +1544,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3331" classname="randoop.RegressionTest6" time="0.002">
+  <testcase name="test3331" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1580,7 +1580,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3336" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3336" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1591,7 +1591,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3337" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3337" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
@@ -1611,11 +1611,11 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3341" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3342" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3342" classname="randoop.RegressionTest6" time="0.002">
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3343" classname="randoop.RegressionTest6" time="0.001"/>
+  <testcase name="test3343" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3344" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3345" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
@@ -1633,7 +1633,7 @@
   <testcase name="test3349" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3350" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3351" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3352" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3352" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1649,7 +1649,7 @@
   <testcase name="test3355" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3356" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3357" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3358" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3358" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ]]></system-out>
@@ -1686,20 +1686,20 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3365" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3366" classname="randoop.RegressionTest6" time="0.001"/>
+  <testcase name="test3366" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3367" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3368" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3369" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3370" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3371" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3372" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3372" classname="randoop.RegressionTest6" time="0.002">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3373" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3373" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ]]></system-out>
@@ -1718,7 +1718,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3375" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3376" classname="randoop.RegressionTest6" time="0.001"/>
+  <testcase name="test3376" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3377" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1726,7 +1726,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3378" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3378" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1745,7 +1745,7 @@
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3382" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3382" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1756,7 +1756,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3383" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3383" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ]]></system-out>
@@ -1768,7 +1768,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3387" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3388" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3388" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3389" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1794,7 +1794,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3393" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3393" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3394" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1814,7 +1814,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3398" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3399" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3399" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1856,7 +1856,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3405" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3406" classname="randoop.RegressionTest6" time="0.002">
+  <testcase name="test3406" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1890,7 +1890,7 @@
   </testcase>
   <testcase name="test3412" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3413" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3414" classname="randoop.RegressionTest6" time="0.001"/>
+  <testcase name="test3414" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3415" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1926,7 +1926,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3423" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3424" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3424" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1941,7 +1941,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3428" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3429" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3429" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -1951,7 +1951,7 @@
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3431" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3431" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3432" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3433" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3434" classname="randoop.RegressionTest6" time="0.0">
@@ -1975,8 +1975,8 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3437" classname="randoop.RegressionTest6" time="0.001"/>
-  <testcase name="test3438" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3437" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3438" classname="randoop.RegressionTest6" time="0.002">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -2028,7 +2028,7 @@
   </testcase>
   <testcase name="test3447" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3448" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3449" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3449" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3450" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3451" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3452" classname="randoop.RegressionTest6" time="0.0">
@@ -2069,11 +2069,11 @@
   <testcase name="test3459" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3460" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3461" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3462" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3462" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3463" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3463" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
@@ -2089,7 +2089,7 @@
   </testcase>
   <testcase name="test3467" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3468" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3469" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3469" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -2106,11 +2106,11 @@
   </testcase>
   <testcase name="test3470" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3471" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3472" classname="randoop.RegressionTest6" time="0.001"/>
+  <testcase name="test3472" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3473" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3474" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3475" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3476" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3476" classname="randoop.RegressionTest6" time="0.001"/>
   <testcase name="test3477" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3478" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3479" classname="randoop.RegressionTest6" time="0.0">
@@ -2135,7 +2135,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3483" classname="randoop.RegressionTest6" time="0.002">
+  <testcase name="test3483" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ]]></system-out>
@@ -2145,7 +2145,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3485" classname="randoop.RegressionTest6" time="0.0"/>
+  <testcase name="test3485" classname="randoop.RegressionTest6" time="0.002"/>
   <testcase name="test3486" classname="randoop.RegressionTest6" time="0.0"/>
   <testcase name="test3487" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
@@ -2161,7 +2161,7 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3491" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3491" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -2177,7 +2177,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3493" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3494" classname="randoop.RegressionTest6" time="0.001">
+  <testcase name="test3494" classname="randoop.RegressionTest6" time="0.0">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -2190,7 +2190,7 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3496" classname="randoop.RegressionTest6" time="0.0"/>
-  <testcase name="test3497" classname="randoop.RegressionTest6" time="0.0">
+  <testcase name="test3497" classname="randoop.RegressionTest6" time="0.001">
     <system-out><![CDATA[✅ Reservation added successfully!
 ✅ Reservation added successfully!
 ✅ Reservation added successfully!
@@ -2212,5 +2212,5 @@
 ✅ Reservation added successfully!
 ]]></system-out>
   </testcase>
-  <testcase name="test3500" classname="randoop.RegressionTest6" time="0.001"/>
+  <testcase name="test3500" classname="randoop.RegressionTest6" time="0.0"/>
 </testsuite>
