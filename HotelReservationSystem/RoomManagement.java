@@ -120,7 +120,7 @@ public class RoomManagement {
             return;
         }
         rooms.remove(r);
-        System.out.println("Room deleted succsessfully  .");
+        System.out.println("Room deleted.");
     }
 
 
