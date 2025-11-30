@@ -41,29 +41,30 @@
   </build>
 
   <dependencies>
-    <!-- JUnit 5 for your manual tests -->
-    <dependency>
-      <groupId>org.junit.jupiter</groupId>
-      <artifactId>junit-jupiter</artifactId>
-      <version>5.10.2</version>
-      <scope>test</scope>
-    </dependency>
+   <!-- JUnit 5 for your manual tests -->
+  <dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter</artifactId>
+    <version>5.10.2</version>
+    <scope>test</scope>
+  </dependency>
 
-    <!-- JUnit 4 for the Randoop-generated tests -->
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.13.2</version>
-      <scope>test</scope>
-    </dependency>
+  <!-- JUnit 4 for the Randoop-generated tests -->
+  <dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.13.2</version>
+    <scope>test</scope>
+  </dependency>
 
-    <!-- Let JUnit 5 run JUnit 4 tests (Randoop) via Vintage engine -->
-    <dependency>
-      <groupId>org.junit.vintage</groupId>
-      <artifactId>junit-vintage-engine</artifactId>
-      <version>5.10.2</version>
-      <scope>test</scope>
-    </dependency>
-  </dependencies>
+  <!-- Let JUnit 5 run JUnit 4 tests (Randoop) via Vintage engine -->
+  <dependency>
+    <groupId>org.junit.vintage</groupId>
+    <artifactId>junit-vintage-engine</artifactId>
+    <version>5.10.2</version>
+    <scope>test</scope>
+  </dependency>
+</dependencies>
 
 </project>
+
