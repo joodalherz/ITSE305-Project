@@ -1,8 +1,0 @@
-[
-  {
-    "key": "ctrl+shift+b",
-    "command": "workbench.action.tasks.runTask",
-    "args": "Run JUnit tests",
-    "when": "editorTextFocus"
-  }
-]
