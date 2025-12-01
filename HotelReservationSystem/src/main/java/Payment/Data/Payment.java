@@ -1,3 +1,5 @@
+package main.java.Payment.Data;
+
 public class Payment {
     private int paymentId;
     private String reservationId;

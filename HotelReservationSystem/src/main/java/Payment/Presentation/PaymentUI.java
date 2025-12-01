@@ -1,4 +1,10 @@
+package main.java.Payment.Presentation;
+
 import java.util.Scanner;
+package Presentation;
+
+import Business.PaymentService;
+import Data.Payment;
 
 public class PaymentUI {
     public static void main(String[] args) {
