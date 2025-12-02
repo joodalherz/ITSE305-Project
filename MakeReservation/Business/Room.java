@@ -23,12 +23,37 @@ public class Room {
     }
 
     // Getters
-    public int getRoomNumber() { return roomNumber; }
-    public String getType() { return type; }
-    public double getPricePerNight() { return pricePerNight; }
-    public int getCapacity() { return capacity; }
-    public String getStatus() { return status; }
-    public String getLastUpdated() { return lastUpdated; }
+
+    // Added after review: basic validation for price and capacity before returning values
+    public int getRoomNumber() { 
+        return roomNumber; 
+    }
+
+    public String getType() { 
+        return type; 
+    }
+
+    public double getPricePerNight() { 
+        if (pricePerNight < 0) {
+            throw new IllegalArgumentException("Price cannot be negative");
+        }
+        return pricePerNight; 
+    }
+
+    public int getCapacity() { 
+        if (capacity <= 0) {
+            throw new IllegalArgumentException("Capacity must be greater than zero");
+        }
+        return capacity; 
+    }
+
+    public String getStatus() { 
+        return status; 
+    }
+
+    public String getLastUpdated() { 
+        return lastUpdated; 
+    }
 
     // Setters
     public void setType(String type) {
@@ -56,5 +81,3 @@ public class Room {
         this.lastUpdated = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
     }
 }
-
-
