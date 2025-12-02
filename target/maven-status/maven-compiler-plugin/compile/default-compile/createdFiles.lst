@@ -1,5 +1,3 @@
-Data\ReservationData.class
 Business\Reservation.class
 Presentation\ReservationUI.class
-Business\RoomManagement.class
-Business\Room.class
+Data\ReservationData.class
