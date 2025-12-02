@@ -27,7 +27,7 @@ public class ReservationUI {
             int room = scanner.nextInt();
 
             if(room < 0){
-            system.out.println("Invalid room number, please input positive number");
+            System.out.println("Invalid room number, please input positive number");
             continue;
             }
 
@@ -41,7 +41,7 @@ public class ReservationUI {
             double price = scanner.nextDouble();
             
             if(price < 0){
-            system.out.println("Invalid price number, please input positive number");
+            System.out.println("Invalid price number, please input positive number");
             continue;
             }
             scanner.nextLine(); // consume leftover newline
