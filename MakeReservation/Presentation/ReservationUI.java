@@ -26,6 +26,11 @@ public class ReservationUI {
             System.out.print("Enter room number: ");
             int room = scanner.nextInt();
 
+            if(room < 0){
+            system.out.println("Invalid room number, please input positive number");
+            continue;
+            }
+
             System.out.print("Enter check-in date (YYYY-MM-DD): ");
             LocalDate checkIn = LocalDate.parse(scanner.next());
 
@@ -34,6 +39,11 @@ public class ReservationUI {
 
             System.out.print("Enter price per night: ");
             double price = scanner.nextDouble();
+            
+            if(price < 0){
+            system.out.println("Invalid price number, please input positive number");
+            continue;
+            }
             scanner.nextLine(); // consume leftover newline
 
             // Create reservation
